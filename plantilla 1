@@ -1,0 +1,52 @@
+## 🖥 Proyecto analizado:
+Nombre del sitio: ________________  
+URL: ________________  
+Fecha del análisis: ________________
+
+---
+
+## 🔍 Hallazgos generales
+
+- Número total de sesiones: ____
+- Dispositivos usados (móvil, escritorio): ____
+- Países de origen de los visitantes: ____
+
+---
+
+## 📊 Observaciones clave
+
+| Métrica               | Descripción/Observación                             | Acción recomendada                           |
+|----------------------|-----------------------------------------------------|----------------------------------------------|
+| 🔴 Rage Clicks        | ¿Dónde ocurrieron clics repetidos?                  | Revisar si hay errores o confusión           |
+| 🔵 Dead Clicks        | ¿Clics sin respuesta en la interfaz?                | Comprobar enlaces, botones o elementos rotos |
+| 🟢 Scroll excesivo    | ¿El visitante se desplazó mucho buscando algo?     | Optimizar estructura y jerarquía visual      |
+| 🟠 Quick Backs        | ¿Alguien entró y salió muy rápido?                  | Mejorar la primera impresión o carga inicial |
+
+---
+
+## 📌 Mapas de calor
+
+- Página analizada: ________________
+- Zonas con más clics: __________________________
+- Zonas ignoradas: __________________________
+- ¿El contenido clave está siendo visible?: Sí / No
+
+---
+
+## 🧠 Interpretación personal
+
+¿Qué aprendiste del comportamiento de los visitantes?  
+¿Qué aspectos quieres mejorar en la experiencia del usuario?  
+¿Cómo se relaciona esto con tu propósito de hacer tecnología accesible?
+
+---
+
+## 🛠 Próximos pasos
+
+1. [ ] Mejorar estructura de la página
+2. [ ] Modificar botones o secciones detectadas
+3. [ ] Implementar cambios y volver a medir
+4. [ ] Documentar resultados en el portafolio técnico
+
+---
+
