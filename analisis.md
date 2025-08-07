@@ -1,16 +1,16 @@
 # 📊 Análisis de interacción web con Microsoft Clarity
 
 **Proyecto:** Portafolio técnico  
-**URL:** https://tuusuario.github.io  
-**Fecha del análisis:** [Completa cuando revises el panel]
+**URL:**  https://martha-1975.github.io/ 
+**Fecha del análisis:** 07/08/2025
 
 ---
 
 ## 🔍 Hallazgos generales
 
-- **Sesiones grabadas:** [Número]  
-- **Dispositivos usados:** [Escritorio / Móvil]  
-- **Países de origen:** [Ej. Colombia, México]
+- **Sesiones grabadas:** [02]  
+- **Dispositivos usados:** [Escritorio]  
+- **Países de origen:** [Colombia]
 
 ---
 
